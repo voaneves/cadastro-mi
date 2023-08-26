@@ -74,7 +74,7 @@ This project includes the following features:
 1. Clone this repository to your machine:
 
    ```bash
-   git clone https://github.com/your-username/cadastro-mi.git
+   git clone https://github.com/voaneves/cadastro-mi.git
 2. Open the index.html file in a web browser.
 
 3. Use the mouse to select colors while moving it.
